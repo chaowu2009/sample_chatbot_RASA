@@ -1,0 +1,15 @@
+action_factory: null
+action_names:
+- utter_greet
+actions:
+- utter_greet
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- greet
+slots: {}
+templates:
+  utter_greet:
+  - text: Hello. Can I help you?
+topics: []

@@ -1,0 +1,24 @@
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Failed to parse intent end entities from ''. 
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Failed to load nlu model. Maybe path /Users/chaowu/Documents/project/sample_chatbot_rasa/models/current/nlu doesn't exist
+There is no trained tf.session: component is either not trained or didn't receive enough training data
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+There is no trained tf.session: component is either not trained or didn't receive enough training data
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+There is no trained tf.session: component is either not trained or didn't receive enough training data
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+There is no trained tf.session: component is either not trained or didn't receive enough training data
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+Circuit breaker tripped. Stopped predicting more actions for sender 'default'

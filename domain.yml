@@ -1,0 +1,16 @@
+intents:
+    - greet
+    - bye
+
+actions:
+    - utter_greet
+    - utter_bye
+
+templates:
+    utter_greet:
+        - "Hello. Can I help you?"
+        - "Hi too!"
+    utter_bye:
+        - "bye too"
+        - "bye bye"
+
